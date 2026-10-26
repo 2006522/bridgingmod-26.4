@@ -24,8 +24,8 @@
 
 | 文件 | 说明 |
 | --- | --- |
-| `BridgingMod-2.7.0+26.4.jar` | 搭桥辅助本体（显示名「搭桥辅助(Bridging Mod)」） |
-| `YACL-3.9.9+26.4.jar` | 配置库（显示名「配置库(YACL)」），BridgingMod 依赖它 |
+| `BridgingMod-2.7.0-mc26.4.jar` | 搭桥辅助本体（装进去显示名是「搭桥辅助(Bridging Mod)」） |
+| `YACL-3.9.9-mc26.4.jar` | 配置库（装进去显示名是「配置库(YACL)」），BridgingMod 依赖它 |
 
 原来的 Fabric API、游戏本体、Fabric Loader 照旧。
 
