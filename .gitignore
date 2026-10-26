@@ -1,0 +1,8 @@
+dist/
+build/
+deps/
+*.jar
+__pycache__/
+*.pyc
+*.class
+logs/
